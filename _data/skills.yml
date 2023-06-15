@@ -1,16 +1,16 @@
-header: Say something about what you're good at
+header: I am good at many things.
 
-subheader: Give some more context
+subheader: These are the three I would consider most beneficial.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Communication
+    description: I like to foster open communication between myself and others
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Persevereance 
+    description: I do not like to give up on tasks too quickly when I get stuck
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Collaboration
+    description: I prosper in group projects
 
 #If you have certifications, talk about them here
 certifications:
